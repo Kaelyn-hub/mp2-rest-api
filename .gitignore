@@ -1,0 +1,21 @@
+# Python virtual environment
+venv/
+.venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Pytest cache
+.pytest_cache/
+
+# Generated files
+*.log
+*.tmp
+*.bak
+
+# Environment variables and secrets
+.env
+
+# macOS
+.DS_Store
